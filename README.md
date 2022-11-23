@@ -1,6 +1,6 @@
 ## About
 Full Stack JavaScript Developer
 
-### Conferences
+### Conferences Attended
 - 2017 React Rally
 - 2018 React Conf
