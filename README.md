@@ -1,4 +1,6 @@
 ## About
+
+### Description
 Full Stack JavaScript Developer
 
 ### Conferences Attended
