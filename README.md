@@ -1,7 +1,7 @@
 ## About
 
 ### Description
-Full Stack JavaScript Developer • [email](mailto:danny@tunney.dev) • [resume](https://www.linkedin.com/in/dtun/)
+Full Stack Engineer • [email](mailto:danny@tunney.dev) • [resume](https://www.linkedin.com/in/dtun/)
 
 ### Conferences Attended
 - 2023 Chain React, Portland
