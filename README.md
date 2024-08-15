@@ -1,9 +1,12 @@
-## About
+### Full Stack Engineer
 
-### Description
-Full Stack Engineer • [email](mailto:danny@tunney.dev) • [resume](https://www.linkedin.com/in/dtun/)
+🚀 Connecting technology, product, and business
 
-### Conferences Attended
+📧 [Email](mailto:danny@tunney.dev) | 📄 [LinkedIn/Resume](https://www.linkedin.com/in/dtun/)
+
+---
+
+### Conference Engagements
 - 2023 Chain React, Portland
 - 2018 React Conf, Las Vegas
 - 2017 React Rally, Salt Lake City
