@@ -2,7 +2,7 @@
 
 🚀 Connecting technology, product, and business
 
-📧 [Email](mailto:danny@tunney.dev) | 📄 [LinkedIn/Resume](https://www.linkedin.com/in/dtun/)
+[Email](mailto:danny@tunney.dev) • [Resume](https://www.linkedin.com/in/dtun/)
 
 ---
 
