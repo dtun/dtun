@@ -6,7 +6,7 @@ I write TypeScript from the phone to the database: React Native apps, GraphQL an
 
 #### Day job
 
-At Sibi I build **Field**, the app technicians use to run truck inventory, restock parts, count bins, and request repairs. My work there covers the Expo client, the GraphQL services behind it, and the admin web app.
+I build a field-service app that technicians use to run truck inventory, restock parts, count bins, and request repairs. My work there covers the Expo client, the GraphQL services behind it, and the admin web app.
 
 #### Built this year
 
