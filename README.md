@@ -1,29 +1,21 @@
 ### Full Stack Engineer
 
-I write TypeScript from the phone to the database: React Native apps, GraphQL and edge backends, and the agent tooling I use to ship them.
+I build products end to end, and I build the agents that help build them.
 
 [tunney.dev](https://tunney.dev) • [Email](mailto:danny@tunney.dev) • [LinkedIn](https://www.linkedin.com/in/dtun/)
 
-#### Day job
+#### Product
 
-I build a field-service app that technicians use to run truck inventory, restock parts, count bins, and request repairs. My work there covers the Expo client, the GraphQL services behind it, and the admin web app.
+I take ideas all the way to something people use. That means the spec, the landing page and waitlist, the mobile and web apps, the backend, analytics, and a rollout behind feature flags. During the day I work on a field-service app for technicians. Outside work I ship small products for my family and community.
 
-#### Built this year
+I care about the details users notice: copy that doesn't overpromise, contrast that passes, and errors that give people a way forward.
 
-- **[KeepTend](https://keeptend.com)**: a plant care app. You chat with your plants and it reads photos of them. Built with Expo, LiveStore, and the AI SDK.
-- **[Kit](https://kitkit.dev)**: a family assistant on Cloudflare Workers. It keeps a household bullet journal over email, reads the family calendar, and prints to a receipt printer.
-- **[Ralph](https://ralph-alpha-landing.vercel.app)**: label an issue `ready-for-agent` and a runner on your own hardware opens a draft PR.
-- **[GOODTrip](https://goodtrip.info)**: a shared, live itinerary for family trips.
-- **[Bible Club](https://bibleclub.family)**: resources for running a family Bible club, plus an AI lesson planner.
-- **[my-budget](https://dtun.github.io/my-budget/)**: a household budget that handles pay schedules and recurring bills and publishes an iCal feed.
-- **[Café Listo](https://github.com/dtun/cafe-listo)**: an emergency-prep checklist that ships as an app and as a remote MCP server (OAuth 2.1, Supabase RLS).
-- **[receipt-printer-mcp](https://github.com/dtun/receipt-printer-mcp)**: lets Claude print to a thermal printer, either on the desk or from your phone.
+#### Agentic work
 
-#### Agent skills
-
-- **[tidy-first](https://github.com/dtun/tidy-first)**: splits a diff into structural and behavioral changes and audits shipped commits for cleanup.
-- **[feat-or-shared](https://github.com/dtun/feat-or-shared)**: decides whether code belongs in an entrypoint, a feature, or a shared layer, judged by what it costs to test.
-- **[slice-log](https://github.com/dtun/slice-log)**: a decision journal for thin slices (Question → Slice → Signal → Decision), built on [bujo-cli](https://github.com/paperstreetapp/bujo-cli), which I also contribute to.
+- **Agents in products:** an email assistant for a household with eval suites behind it, an in-app assistant for technicians, AI planners, and chat
+- **Agents that build software:** an orchestrator that turns a `ready-for-agent` issue into a draft PR on your own hardware, and a feedback loop that triages and files issues
+- **MCP servers:** remote servers with OAuth that let Claude read and act on real data, and one that prints receipts
+- **Agent skills:** open `SKILL.md` skills that split a diff into structure and behavior, decide where code belongs by what it costs to test, and keep a journal of product decisions
 
 #### How I work
 
